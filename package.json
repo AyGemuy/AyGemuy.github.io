@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/soft-ui-dashboard.git"
+    "url": "git+https://github.com/AyGemuy/soft-ui-dashboard.git"
   },
   "keywords": [
     "soft ui dashboard",
@@ -34,7 +34,7 @@
   "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/soft-ui-dashboard/issues"
+    "url": "https://github.com/AyGemuy/soft-ui-dashboard/issues"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
